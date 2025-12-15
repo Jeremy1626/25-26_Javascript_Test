@@ -2,7 +2,7 @@
 
 
 function functionName(){
-    document.getElementById("imageTask1").style.visibility = "visible"
+    document.getElementById("imageTask1").style.visibility = "visible";
 }
 
 
